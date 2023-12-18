@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Thw"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   经济学、数学、编程
 
 email: haowen_t@163.com
 #blog logo
@@ -16,8 +16,8 @@ float_logo: false # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: '春风'
-author: '春风'
+name: 'haowen'
+author: 'haowen'
 # author_image: "/assets/images/author.jpg"
 
 paginate:	5
